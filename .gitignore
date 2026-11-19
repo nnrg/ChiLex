@@ -1,0 +1,12 @@
+# Byte-compiled / optimized python files
+__pycache__/
+*.pyc
+
+# emacs backups
+*~
+
+# jupyter notebook stuff
+.ipynb_checkpoints
+
+# ...and that
+.DS_Store
